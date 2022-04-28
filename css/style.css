@@ -16,13 +16,14 @@ a:hover {
     color: var(--color-primary);
 }
 
+
 /* navbar */
 .navbar {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     padding: 1rem;
-
+    font-family: 'Montserrat-Light-Alt1', sans-serif;
     font-size: 1.333rem;
 }
 .navbar__collapse-show {
