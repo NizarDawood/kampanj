@@ -1,3 +1,4 @@
+@@ -0,0 +1,76 @@
 /* https://piccalil.li/blog/a-modern-css-reset/ */
 /* Box sizing rules */
 *,
@@ -48,8 +49,9 @@ a:not([class]) {
 img,
 picture {
     max-width: 100%;
-    display: block;
+
 }
+
 
 /* Inherit fonts for inputs and buttons */
 input,

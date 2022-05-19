@@ -1,9 +1,17 @@
+@@ -0,0 +1,208 @@
 :root {
-    --color-light: hsl(0, 0%, 94%);
-    --color-dark: hsl(0, 0%, 20%);
-    --color-shadow: hsla(0, 0%, 13%, 0.2);
-    --color-primary: hsl(347, 83%, 56%);
-    --color-secondary: hsl(275, 100%, 25%);
+    --color-light: );
+    --color-dark);
+    --color-shadow: );
+    --color-primary: ;
+    --color-secondary: ;
+    #061451
+#864cff
+#f1f6fc
+#cfd7ee
+#372360
+#5a2dae
+
 
     --font-sans: "Merriweather Sans", sans-serif;
 }
@@ -16,14 +24,13 @@ a:hover {
     color: var(--color-primary);
 }
 
-
 /* navbar */
 .navbar {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     padding: 1rem;
-    font-family: 'Montserrat-Light-Alt1', sans-serif;
+
     font-size: 1.333rem;
 }
 .navbar__collapse-show {
