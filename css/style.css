@@ -371,6 +371,7 @@ h1, h2, h3 {
 
 h1 {
     font-size: 3.157rem;
+    text-decoration: underline #CDF7EE;
 }
 
 h2 {
