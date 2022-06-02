@@ -19,7 +19,7 @@ uppgiften är att re designa en webbplats. Ett samarbete med svenskan där vi ha
  
 <p>4.
 
-jag har wavat och validerat hemsidan  hemsidan det var inga problem när jag validerade hemsidan bara att det fanns två slut märken </> efter varandra . efter jag har wavat sida  kom det mycket erors och alerts om alt-text så jag fixade det  genom att beskriva bilden. 
+jag har wavat och validerat hemsidan  hemsidan det var inga problem när jag validerade hemsidan bara att det fanns två slut märken </> efter varandra . efter jag har wavat sida  kom det mycket erors och alerts om alt-text så jag fixade det  genom att beskriva bilden och göra en användbarhets anpassad jag kollade också färgernas kontrast för vanlig syn och färgblindhet. 
 
 ##
 ![GitHub Logo](./img/wave.png)
