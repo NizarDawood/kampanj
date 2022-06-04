@@ -28,10 +28,10 @@ jag har wavat och validerat hemsidan  hemsidan det var inga problem när jag val
 '''
 
 ## Negativa erfarenheter
-<p> 
+<p> navbar
 
 ## Positiva erfarenheter
-<p>
+<p>färg
 
 
 
@@ -39,7 +39,7 @@ jag har wavat och validerat hemsidan  hemsidan det var inga problem när jag val
 
 över lag gick det bra och jag har lärt mig hur man  man ändrar i andras kod. det var klurigt i början man behövde läsa hela koden och förstå den innan man kunde ändra den annars blev det problem 
 jag blev nöjd med slut produkten 
-nav bar fotter
+
 
 
   
