@@ -22,23 +22,25 @@ uppgiften är att re designa en webbplats. Ett samarbete med svenskan där vi ha
 jag har wavat och validerat hemsidan  hemsidan det var inga problem när jag validerade hemsidan bara att det fanns två slut märken </> efter varandra . efter jag har wavat sida  kom det mycket erors och alerts om alt-text så jag fixade det  genom att beskriva bilden och göra en användbarhets anpassad jag kollade också färgernas kontrast för vanlig syn och färgblindhet. 
 
 ##
-![GitHub Logo](./img/wave.png)
-![Alt Text](./img/valid.png)
+![wave](../docs/img/wave.png)
+![validerning](../docs/img/valid.png)
 
 '''
 
 ## Negativa erfarenheter
-<p> navbar
+<p> navbare kunde vara bättre på mobilversonen 
+<p> kunde använda 
 
 ## Positiva erfarenheter
 <p>färg
+<p>användar barheten
 
 
 
 ## Sammanfattning
 
 över lag gick det bra och jag har lärt mig hur man  man ändrar i andras kod. det var klurigt i början man behövde läsa hela koden och förstå den innan man kunde ändra den annars blev det problem 
-jag blev nöjd med slut produkten 
+jag blev nöjd med slut produkten. 
 
 
 
